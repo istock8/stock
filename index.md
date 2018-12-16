@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 欢迎来到我的GITHUB网页，我是火眼芝麻，为股票而生的中国人。
 
 You can use the [editor on GitHub](https://github.com/istock8/stock/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
